@@ -60,3 +60,10 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\build\build.ps1
 - `build/out/MacAddressGenerator.exe`
 - `build/out/MAC地址生成器_安装程序.exe`
 - `dist/MAC地址生成器_安装程序.exe`
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。
+
+Copyright (c) 2026 newbeefish
+
