@@ -1,0 +1,15 @@
+# Build output
+build/out/
+build/ui-smoke/
+
+# Application runtime data
+config.json
+history.json
+startup-debug.log
+startup-error.log
+
+# Temporary files
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
